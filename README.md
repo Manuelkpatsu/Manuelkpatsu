@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a professional, hard working and dedicated Software Engineer with knowledge and focus on Flutter, and Javascript and some of its frameworks.
+
 <!--
 **Manuelkpatsu/Manuelkpatsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
