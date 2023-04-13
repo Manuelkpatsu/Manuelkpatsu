@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>
-    Hi there 👋
+    Hi there 👋🏾
   </h1>
   <p>
     I am a professional, hard working and dedicated Software Engineer with knowledge and focus on Flutter, and Javascript and some of its frameworks.
