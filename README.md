@@ -8,13 +8,13 @@
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/emmanuel-ahuno-7b2986137">
-      <img src="https://cdn-icons-png.flaticon.com/128/4494/4494497.png" alt="LinkedIn Badge" width="20" height="20" />
+      <img src="https://cdn-icons-png.flaticon.com/128/4494/4494497.png" alt="LinkedIn Badge" width="30" height="30" />
     </a>
     <a href="mailto:emmaahuno@gmail.com">
-      <img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="Gmail Badge" width="20" height="20" />
+      <img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="Gmail Badge" width="30" height="30" />
     </a>
     <a href="https://twitter.com/nuel_nartey">
-      <img src="https://cdn-icons-png.flaticon.com/128/3670/3670151.png" alt="Twitter Badge" width="20" height="20" />
+      <img src="https://cdn-icons-png.flaticon.com/128/3670/3670151.png" alt="Twitter Badge" width="30" height="30" />
     </a>
   </div>
 </div>
